@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0735-asteroid-collision](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0735-asteroid-collision) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0541-reverse-string-ii) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## String
 |  |
 | ------- |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 <!---LeetCode Topics End-->
