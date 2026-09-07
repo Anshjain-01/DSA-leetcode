@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
