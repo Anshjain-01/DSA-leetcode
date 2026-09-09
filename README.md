@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0541-reverse-string-ii) |
+| [0784-letter-case-permutation](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0784-letter-case-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0784-letter-case-permutation) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Recursion
 |  |
@@ -82,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0216-combination-sum-iii) |
+| [0784-letter-case-permutation](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
