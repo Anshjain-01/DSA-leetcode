@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0047-permutations-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [3904-smallest-stable-index-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3488-closest-equal-element-queries](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Bit Manipulation
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
