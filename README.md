@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0047-permutations-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0047-permutations-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Math
 |  |
@@ -85,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0784-letter-case-permutation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
