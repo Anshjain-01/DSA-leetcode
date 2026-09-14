@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0643-maximum-average-subarray-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [3488-closest-equal-element-queries](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -119,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
