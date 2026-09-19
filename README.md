@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0079-word-search) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0541-reverse-string-ii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0784-letter-case-permutation) |
 ## Divide and Conquer
@@ -134,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0648-replace-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
