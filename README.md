@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0648-replace-words) |
 | [0784-letter-case-permutation](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0784-letter-case-permutation) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0735-asteroid-collision) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
