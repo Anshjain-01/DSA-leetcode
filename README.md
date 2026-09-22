@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0735-asteroid-collision) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3488-closest-equal-element-queries](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3904-smallest-stable-index-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3488-closest-equal-element-queries](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
