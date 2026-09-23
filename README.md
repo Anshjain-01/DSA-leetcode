@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0648-replace-words) |
+| [0904-fruit-into-baskets](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3488-closest-equal-element-queries](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
