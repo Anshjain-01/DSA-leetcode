@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0079-word-search) |
+| [0841-keys-and-rooms](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0841-keys-and-rooms) |
 ## Matrix
 |  |
 | ------- |
@@ -214,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0841-keys-and-rooms) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
