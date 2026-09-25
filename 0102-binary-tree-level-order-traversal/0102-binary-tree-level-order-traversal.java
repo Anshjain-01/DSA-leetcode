@@ -36,7 +36,7 @@ class Solution {
                     q.add(curr.right);
                 }
             }
-            anslist.add(new ArrayList<>(list));
+            anslist.add(list);
            
         }
         return anslist;
