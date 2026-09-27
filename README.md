@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0567-permutation-in-string) |
