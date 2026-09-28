@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3488-closest-equal-element-queries](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
