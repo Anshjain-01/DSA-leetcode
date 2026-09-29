@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [0888-fair-candy-swap](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
