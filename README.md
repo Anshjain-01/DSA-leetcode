@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [0888-fair-candy-swap](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0525-contiguous-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0648-replace-words) |
 | [0888-fair-candy-swap](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
