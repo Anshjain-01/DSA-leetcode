@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0784-letter-case-permutation) |
 | [0856-score-of-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -296,4 +299,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
