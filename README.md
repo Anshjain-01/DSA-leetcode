@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0784-letter-case-permutation) |
 | [0856-score-of-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1079-letter-tile-possibilities](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1079-letter-tile-possibilities](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1079-letter-tile-possibilities](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -334,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
