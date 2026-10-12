@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0784-letter-case-permutation) |
 | [0856-score-of-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1079-letter-tile-possibilities](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1079-letter-tile-possibilities](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Divide and Conquer
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0841-keys-and-rooms) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Matrix
 |  |
 | ------- |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Bracket Sequences
 |  |
 | ------- |
