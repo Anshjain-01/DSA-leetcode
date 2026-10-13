@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3488-closest-equal-element-queries](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0888-fair-candy-swap](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0888-fair-candy-swap) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Topological Sort
 |  |
 | ------- |
