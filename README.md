@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3488-closest-equal-element-queries](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0735-asteroid-collision) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -408,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 <!---LeetCode Topics End-->
