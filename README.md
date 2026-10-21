@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0187-repeated-dna-sequences) |
