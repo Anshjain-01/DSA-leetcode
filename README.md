@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0216-combination-sum-iii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Search
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0210-course-schedule-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0200-number-of-islands) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0210-course-schedule-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0513-find-bottom-left-tree-value) |
