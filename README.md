@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0978-longest-turbulent-subarray](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0648-replace-words) |
 | [0888-fair-candy-swap](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1079-letter-tile-possibilities) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
