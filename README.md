@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2104-sum-of-subarray-ranges](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshjain-01/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
