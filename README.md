@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0888-fair-candy-swap](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0888-fair-candy-swap) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anshjain-01/DSA-leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anshjain-01/DSA-leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anshjain-01/DSA-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Topological Sort
